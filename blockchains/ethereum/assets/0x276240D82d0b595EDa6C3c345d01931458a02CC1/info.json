@@ -1,0 +1,28 @@
+{
+    "name": "Chewie Coin",
+    "type": "ERC20",
+    "symbol": "CHEWIE",
+    "decimals": 18,
+    "website": "https://chewiecoin.com",
+    "description": "Woof woof! Chewie Coin is a Decentralized ERC-20 Token With the aim of supporting our favorite pets all around the world!",
+    "explorer": "https://etherscan.io/token/0x276240d82d0b595eda6c3c345d01931458a02cc1",
+    "status": "active",
+    "id": "0x276240d82d0b595eda6c3c345d01931458a02cc1",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/Chewie_Coin"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ChewieCoinCommunity"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/r/Chewie_Coin/"
+        }
+    ],
+    "tags": [
+        "memes"
+    ]
+}
